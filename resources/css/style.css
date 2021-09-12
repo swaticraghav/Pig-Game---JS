@@ -165,3 +165,46 @@ main {
   font-weight: 700;
   color: #c7365f;
 }
+
+/***************/
+/* Final Score */
+/***************/
+
+.winning--score {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    top: 520px;
+    color: #555;
+    font-size: 18px;
+    font-family: 'Lato';
+    text-align: center;
+    padding: 10px;
+    width: 190px;
+    text-transform: uppercase;
+}
+
+.winning--score:focus {
+    outline: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
